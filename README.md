@@ -1,7 +1,7 @@
 ### 👋 Hi, I’m @chantal-kelm,
 
 - 💞️ I’m Software Engineer
-- 💞️ I’m currently learning Bachelor of Data Science
+- 💞️ I am currently studying Bachelor of Data Sciences
 
 ### Things I code with
 <p>
