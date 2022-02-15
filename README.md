@@ -1,4 +1,4 @@
-- 👋 ###Hi, I’m @chantal-kelm,
+- 👋 ### Hi, I’m @chantal-kelm,
 - 💞️ I’m Software Engineer
 - 💞️ I’m currently learning Bachelor of Data Science
 
