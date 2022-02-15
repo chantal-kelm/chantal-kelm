@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @chantal-kelm
+- 👋 Hi, I’m @chantal-kelm,
 - 💞️ I’m Software Engineer
 - 💞️ I’m currently learning Bachelor of Data Science
 
@@ -16,6 +16,6 @@
   <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
 </p>
 
-Git | HTML | CSS | Advanced Javascript | React | Redux | Material UI | Less | Testing | Node JS | Express JS | SQL | PostgreSQL | Sequelize | Firebase | Mongo DB
+Javascript | SQL | React | HTML/CSS | Redux | Bootstrap | jQuery | Express.js | Node.js | PostgreSQL | Sequelize | Firebase | Git | Inglés | Tableau | Sass | Mongo DB | Material UI |
 
 📫 You can reach me at chantal.belen.kelm@gmail.com - [Linkedin](https://www.linkedin.com/in/chantalkelm/)
