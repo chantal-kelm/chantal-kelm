@@ -11,6 +11,7 @@
   <img alt="Nodejs" src="https://img.shields.io/badge/-Typescript-emerald?style=flat-square&logo=Typescript&logoColor=black" />
   <img alt="Redux" src="https://img.shields.io/badge/-Redux-brown?style=flat-square&logo=Redux&logoColor=white" />
   <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
+  <img alt="Sass" src="https://img.shields.io/badge/-GraphQL-da3733?style=flat-square&logo=GraphQL&logoColor=black" />
   <img alt="MaterialUI" src="https://img.shields.io/badge/Material--UI-blue?style=flat-square&logo=Material--UI&logoColor=white" />
   <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-000000?style=flat-square&logo=MySQL&logoColor=white" />
   <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-4834d4?style=flat-square&logo=PostgreSQL&logoColor=white" />
