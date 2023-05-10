@@ -7,8 +7,8 @@
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-ff07a6?style=flat-square&logo=React&logoColor=black" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-blue?style=flat-square&logo=Node.js&logoColor=white" />
-  <img alt="Nodejs" src="https://img.shields.io/badge/-Javascript-purple?style=flat-square&logo=Node.js&logoColor=white" />
-  <img alt="Nodejs" src="https://img.shields.io/badge/-Typescript-emerald?style=flat-square&logo=Node.js&logoColor=white" />
+  <img alt="Nodejs" src="https://img.shields.io/badge/-Javascript-purple?style=flat-square&logo=Javascript&logoColor=white" />
+  <img alt="Nodejs" src="https://img.shields.io/badge/-Typescript-emerald?style=flat-square&logo=Typescript&logoColor=black" />
   <img alt="Redux" src="https://img.shields.io/badge/-Redux-brown?style=flat-square&logo=Redux&logoColor=white" />
   <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
   <img alt="MaterialUI" src="https://img.shields.io/badge/Material--UI-blue?style=flat-square&logo=Material--UI&logoColor=white" />
@@ -19,7 +19,7 @@
   <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
 </p>
 
-Javascript | SQL | React | HTML/CSS | Redux | Bootstrap | jQuery | Express.js | Node.js | PostgreSQL | Sequelize | Firebase | Git | Inglés | Tableau | Sass | Mongo DB | Material UI |
+React | Node.js | Javascript | Typescript | Redux | SASS | SQL | GraphQL | HTML/CSS | Bootstrap | jQuery | Express.js | PostgreSQL | Sequelize | Firebase | Docker | Elastic | Kibana | Splunk | Git | Scrum | Inglés | Tableau | | Material UI | Back-end | Front-end | Análisis de datos
 
 📫 You can reach me at chantal.belen.kelm@gmail.com - [Linkedin](https://www.linkedin.com/in/chantalkelm/)
 
