@@ -20,3 +20,4 @@
 Javascript | SQL | React | HTML/CSS | Redux | Bootstrap | jQuery | Express.js | Node.js | PostgreSQL | Sequelize | Firebase | Git | Inglés | Tableau | Sass | Mongo DB | Material UI |
 
 📫 You can reach me at chantal.belen.kelm@gmail.com - [Linkedin](https://www.linkedin.com/in/chantalkelm/)
+
