@@ -13,7 +13,7 @@
   <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
   <img alt="Sass" src="https://img.shields.io/badge/-GraphQL-da3733?style=flat-square&logo=GraphQL&logoColor=black" />
   <img alt="MaterialUI" src="https://img.shields.io/badge/Material--UI-blue?style=flat-square&logo=Material--UI&logoColor=white" />
-  <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-00CFFF?style=flat-square&logo=MySQL&logoColor=white" />
+  <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-C300FE?style=flat-square&logo=MySQL&logoColor=white" />
   <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-4834d4?style=flat-square&logo=PostgreSQL&logoColor=white" />
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-F7B93E?style=flat-square&logo=Firebase&logoColor=white" />
