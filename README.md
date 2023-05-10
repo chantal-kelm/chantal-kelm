@@ -5,7 +5,7 @@
 
 ### Things I code with
 <p>
-  <img alt="React" src="https://img.shields.io/badge/-React-#ff07a6?style=flat-square&logo=React&logoColor=black" />
+  <img alt="React" src="https://img.shields.io/badge/-React-ff07a6?style=flat-square&logo=React&logoColor=black" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-blue?style=flat-square&logo=Node.js&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Javascript-purple?style=flat-square&logo=Node.js&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Typescript-emerald?style=flat-square&logo=Node.js&logoColor=white" />
