@@ -5,8 +5,10 @@
 
 ### Things I code with
 <p>
-  <img alt="React" src="https://img.shields.io/badge/-React-emerald?style=flat-square&logo=React&logoColor=black" />
-  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-purple?style=flat-square&logo=Node.js&logoColor=white" />
+  <img alt="React" src="https://img.shields.io/badge/-React-pink?style=flat-square&logo=React&logoColor=black" />
+  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-blue?style=flat-square&logo=Node.js&logoColor=white" />
+  <img alt="Nodejs" src="https://img.shields.io/badge/-Javascript-purple?style=flat-square&logo=Node.js&logoColor=white" />
+  <img alt="Nodejs" src="https://img.shields.io/badge/-Typescript-emerald?style=flat-square&logo=Node.js&logoColor=white" />
   <img alt="Redux" src="https://img.shields.io/badge/-Redux-brown?style=flat-square&logo=Redux&logoColor=white" />
   <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
   <img alt="MaterialUI" src="https://img.shields.io/badge/Material--UI-blue?style=flat-square&logo=Material--UI&logoColor=white" />
